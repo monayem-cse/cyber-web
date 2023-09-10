@@ -1,0 +1,83 @@
+.half-width {
+  display: flex;
+  /* justify-content: center; */
+  /* background-color: black; */
+  /* flex-direction: column; */
+}
+.half-width h1 {
+  color: yellow;
+}
+.experiment-list button {
+  margin: 30px;
+  text-align: center;
+
+  padding-left: 10px;
+  font-size: 30px;
+  margin-left: 20%;
+  background-color: yellow;
+  border-radius: 10px;
+}
+h1 {
+  font-size: 30px;
+}
+.container {
+  display: flex;
+}
+.full-width {
+  background-color: cadetblue;
+  padding: 20px;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Poppins", sans-serif;
+  margin-right: 10%;
+}
+.all-area {
+  background-color: darkslategray;
+}
+.flexible-container {
+  display: flex;
+  padding: 0 30px;
+  justify-content: center;
+  column-gap: 100px;
+  display: flex;
+}
+.experiment-area {
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+.experiment-item {
+  max-width: 450px;
+  /* width: 100px; */
+  padding: 20px;
+  padding-left: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+}
+#web-hosting {
+  background-color: aquamarine;
+  border-radius: 15px;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+#Business-hosting {
+  background-color: aqua;
+  border-radius: 15px;
+  font-family: "Imbue", serif;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+#VPS-server {
+  background-color: aquamarine;
+  border-radius: 15px;
+  font-family: "Imbue", serif;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+#Dedicated-server {
+  background-color: aquamarine;
+  border-radius: 15px;
+  font-family: "Imbue", serif;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
