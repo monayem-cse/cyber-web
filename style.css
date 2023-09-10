@@ -13,7 +13,7 @@
 
   padding-left: 10px;
   font-size: 30px;
-  margin-left: 20%;
+  margin-left: 10%;
   background-color: yellow;
   border-radius: 10px;
 }
@@ -47,9 +47,9 @@ h1 {
 }
 .experiment-item {
   max-width: 450px;
-  /* width: 100px; */
-  padding: 20px;
-  padding-left: 20px;
+  width: 250px;
+  padding: 10px;
+  padding-left: 10px;
   border-radius: 10px;
   box-shadow: 10px 10px 40px gray;
 }
@@ -80,4 +80,7 @@ h1 {
   font-family: "Imbue", serif;
   font-family: "Orbitron", sans-serif;
   font-family: "Poppins", sans-serif;
+}
+.all-written {
+  margin-left: 5%;
 }
